@@ -48,7 +48,7 @@
 
 
 
-```markdown
+
 
 ## 💼 Portfólio de Projetos  
 Projetos em Machine Learning, Análise de Dados e Inteligência Artificial
@@ -71,6 +71,4 @@ Projetos em Machine Learning, Análise de Dados e Inteligência Artificial
 
 ---
 
-
----
 
