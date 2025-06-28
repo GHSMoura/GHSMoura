@@ -50,16 +50,5 @@
 
 
 
-## 💼 Portfólio de Projetos  
-Projetos em Machine Learning, Análise de Dados e Inteligência Artificial
-
-| **Nome do Projeto**                                     | **Notebook / Link**                | **Ferramentas**                                                                                  | **Descrição**                                                                                                                                                                                                                                                                        |
-|---------------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Detecção de Fraude em Cartões de Crédito**            | [`fraude_cartao`](#)                | Python, Pandas, Scikit-Learn, XGBoost, Random Forest, Keras, SMOTE                              | Avaliação de modelos para detecção de fraudes. O modelo híbrido (RF + XGBoost) obteve alto desempenho mesmo em dados desbalanceados, com recall de 95%.                                                                                                                          |
-| **Análise Histórica do Atletismo Mundial**              | [`world-athletics-analysis`](#)     | Python, Pandas, Seaborn, Matplotlib, KaggleHub                                                  | Análise dos melhores tempos dos 100m, 200m, 400m e maratona; visualizações por atleta, país e evolução ao longo dos anos.                                                                                                                  |
-| **Premier League 2025 - Estatísticas e Salários**       | [`PL-2025-analysis`](#)             | Python, Pandas, Seaborn, Matplotlib, KaggleHub                                                  | Análise da temporada com foco em artilheiros, assistências, defesa, salários dos clubes e distribuição de investimentos.                                                                                                                    |
-| **Estatísticas das 5 Principais Ligas Europeias**       | [`football-stats-2425`](#)          | Python, Pandas, Seaborn, Matplotlib, KaggleHub                                                  | Avaliação de jogadores por liga (xG, idade média, defensores, goleiros) e comparações entre campeonatos europeus.                                                                                                                           |
-| **
----
 
 
