@@ -47,11 +47,6 @@
 [![Portfólio Badge](https://img.shields.io/badge/Portf%C3%B3lio-4CAF50?style=for-the-badge&logo=notion&logoColor=white)](https://goldenrod-clam-1b4.notion.site/Portf-lio-do-Gustavo-Moura-190d13cdb33080c49515dc9ea8f00c15)  
 
 
-Maravilha, Gustavo! Aqui está seu **layout completo de README para GitHub**, com capa estilosa, badges, descrição pessoal e a **tabela de projetos já formatada em Markdown**. Você pode colar isso direto no seu `README.md` e deixar seu perfil com cara de portfólio tech de alto nível 💼🚀
-
----
-
-## ✅ README.md para GitHub (copie e cole direto!)
 
 ```markdown
 
