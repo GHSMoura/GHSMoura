@@ -1,6 +1,6 @@
 # Transformando dados em decisões inteligentes. Olá, eu sou Gustavo Moura!
 
-🎓 Análise de Dados TripleTen Brasil (2024 - 2025)  
+🎓 Bootcamp de Análise de Dados na TripleTen Brasil (2024 - 2025)  
 🎓 Mestre em Gestão Desportiva pela Universidade do Porto (2019 - 2021)  
 🎓 Master of Business Administration (MBA) em Administração/Gestão Esportiva pela Trevisan Escola de Negócios (2014 - 2016)  
 
