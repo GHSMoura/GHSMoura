@@ -12,7 +12,19 @@
 - Coleta e gerenciamento de dados com **SQL**  
 
 💡 Sou motivado por encontrar soluções inovadoras e aplicar **dados** como base para melhorias operacionais e estratégicas.
-
+| Projeto                                       | Caderno / Link                | Linguagem     | Observação |
+|----------------------------------------------|-------------------------------|---------------|------------|
+| Fraude em Cartões de Crédito                 | Jupyter Notebook              | Python        | Aplicação de técnicas avançadas de Machine Learning (Random Forest, XGBoost, Redes Neurais e modelo híbrido) para detecção de fraudes em transações financeiras, com foco em precisão, recall e robustez dos resultados — incluindo balanceamento de dados e validação cruzada para garantir confiabilidade do modelo em ambiente real |
+| Desempenhos do Atletismo Mundial             | –                             | Python        | Análise histórica dos melhores tempos nas provas de 100m, 200m, 400m e Maratona, com foco em atletas destaque e evolução das marcas ao longo dos anos. |
+| Premier League 2025                          | –                             | Python + SQL  | Análise dos principais artilheiros, assistentes, desempenho ofensivo/defensivo dos clubes e investimentos financeiros, com visualizações comparativas e insights da temporada. |
+| Estatísticas dos Jogadores – Ligas Europeias | –                             | Python        | Análise comparativa de desempenho ofensivo e defensivo dos jogadores nas cinco principais ligas europeias, com destaque para métricas como gols, assistências, xG e idade média por liga. |
+| Ranking QS Universidades 2025                | –                             | Python        | Análise comparativa do desempenho global e regional das universidades no ranking QS 2025, com foco em empregabilidade, internacionalização e evolução histórica das instituições. |
+| Real Madrid x Barcelona                      | –                             | Python        | Estudo comparativo da saúde financeira dos dois clubes, com métricas como receita, dívida, liquidez e projeções de solvência usando o modelo Altman Z-Score. |
+| Análise do Flamengo 2020-2023                | –                             | Python        | Avaliação da saúde financeira ao longo de quatro anos com indicadores de liquidez, rentabilidade, solvência e crescimento, acompanhada de visualizações gráficas explicativas. |
+| E-Commerce – Comportamento de Clientes       | –                             | Python        | Análise do comportamento de clientes em loja virtual com segmentação RFM, avaliação estatística de campanha de marketing e visualizações sobre padrões de compra e desempenho. |
+| Novo Sistema Online                          | –                             | Python        | Avaliação do impacto de estratégias de marketing sobre taxas de conversão e receita, com aplicação de Teste Z e análise do funil de conversão por grupo experimental. |
+| NVIDIA                                       | –                             | Python        | Estudo do desempenho financeiro da NVIDIA com foco em volatilidade, retornos, médias móveis, correlação com S&P 500 e petróleo, usando visualizações e indicadores estatísticos. |
+| Análise de Livros                            | –                             | Python + SQL  | Estudo de padrões de avaliação, comportamento de leitores e desempenho editorial com visualizações interativas e consultas SQL sobre dados históricos e atuais. |
 ---
 
 ## 💼 Ferramentas e Tecnologias
