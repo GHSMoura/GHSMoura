@@ -25,7 +25,7 @@
 | [Novo Sistema Online – Teste A/B](https://github.com/GHSMoura/Novo_Sistema_Online) | Pandas, NumPy, Matplotlib, SciPy                   | Python        | Avaliação do impacto de estratégias de marketing sobre taxas de conversão e receita, com aplicação de Teste Z e análise do funil de conversão por grupo experimental. |
 | [Análise Financeira da NVIDIA](https://github.com/GHSMoura/Analise_Livros) | yfinance, Pandas, Seaborn, Matplotlib              | Python        | Estudo do desempenho financeiro da NVIDIA com foco em volatilidade, retornos, médias móveis, correlação com S&P 500 e petróleo, usando visualizações e indicadores estatísticos. |
 | [Análise de Livros – Padrões de Leitura](https://github.com/GHSMoura/Analise_Livros) | PostgreSQL, SQLAlchemy, Pandas, Seaborn, Matplotlib | Python + SQL | Estudo de padrões de avaliação, comportamento de leitores e desempenho editorial com visualizações interativas e consultas SQL sobre dados históricos e atuais. |
----
+| [Porto Dashboard](https://github.com/GHSMoura/Porto-Dashboard) | HTML5, CSS3, JavaScript, Leaflet.js, GitHub Pages | HTML + JS     | Aplicação interativa com mapas geográficos e estatísticos da cidade do Porto. Publicado via GitHub Pages, o projeto apresenta visualizações temáticas como mapas choropleth, categorização urbana e indicadores demográficos, com foco em acessibilidade, clareza visual e navegação intuitiva. |
 
 ## 💼 Ferramentas e Tecnologias
 
