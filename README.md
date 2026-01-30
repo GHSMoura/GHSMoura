@@ -1,4 +1,4 @@
-# Transformando dados em decisões inteligentes. Olá, eu sou Gustavo Moura!
+# Transformando dados em decisões inteligentes. Por Gustavo Moura!
 
 🎓 Bootcamp de Análise de Dados na TripleTen Brasil (2024 - 2025)  
 🎓 Mestre em Gestão Desportiva pela Universidade do Porto (2019 - 2021)  
@@ -15,7 +15,7 @@
 
 ---
 
-## Projetos 
+## Projetos em destaque
 
 ### [Fraude em Cartões de Crédito](https://github.com/GHSMoura/Fraude-em-cartoes-de-credito-)
 - **Técnicas:** Random Forest, XGBoost, Redes Neurais, modelo híbrido, SMOTE  
