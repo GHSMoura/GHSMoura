@@ -15,7 +15,7 @@
 
 ---
 
-##  Projetos em Destaque
+## Projetos em Destaque
 
 ### [Fraude em Cartões de Crédito](https://github.com/GHSMoura/Fraude-em-cartoes-de-credito-)
 - **Técnicas:** Random Forest, XGBoost, Redes Neurais, modelo híbrido, SMOTE  
@@ -41,7 +41,7 @@
 
 ---
 
-##  Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -61,7 +61,7 @@
 
 ---
 
-##  Contatos  
+## Contatos  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mourahsgustavo/)  
 [![E-mail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guga.h.s.moura@gmail.com)  
