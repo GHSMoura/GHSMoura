@@ -15,7 +15,7 @@
 
 ---
 
-## Projetos em Destaque
+## Projetos 
 
 ### [Fraude em Cartões de Crédito](https://github.com/GHSMoura/Fraude-em-cartoes-de-credito-)
 - **Técnicas:** Random Forest, XGBoost, Redes Neurais, modelo híbrido, SMOTE  
